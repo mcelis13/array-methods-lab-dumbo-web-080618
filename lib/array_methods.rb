@@ -4,11 +4,11 @@ end
 
 def using_sort(array)
   sortedArray = array.sort()
-  return sortedArray;
+  return sortedArray
 end
 
 def using_reverse(array)
-
+  return array.reverse()
 end
 
 def using_first(array)
